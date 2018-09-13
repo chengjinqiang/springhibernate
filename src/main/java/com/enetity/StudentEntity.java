@@ -1,7 +1,7 @@
 package com.enetity;
 
 import javax.persistence.*;
-
+/*kkkkkkk*/
 @Entity
 @Table(name = "student", schema = "test", catalog = "")
 public class StudentEntity {
